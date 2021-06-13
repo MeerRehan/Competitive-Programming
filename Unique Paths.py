@@ -16,5 +16,5 @@ class Solution:
     
     
     
-ans=Solution.uniquePaths(2,7)
-print(ans)
+ans=Solution()
+print(ans.uniquePaths(2,7))
